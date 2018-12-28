@@ -2,6 +2,9 @@
 . This is code for a book called "tensorflow cook book"
 . The program is the code showed in the book.Every program has been add some extral print info or comments to make better understand
 
+# Running tensorboard to visualize tensorflow graph
+ - tensorboard --logidr='logdir'
+
 # Additional Resources
 
 ###Official Resources:
